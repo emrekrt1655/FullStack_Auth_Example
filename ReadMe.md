@@ -1,4 +1,4 @@
-# Simple JWT authentication server app
+# Simple JWT authentication fullstack app
 
 This project was created with [Typescript](https://www.typescriptlang.org/) and [PrismaOrm](https://www.prisma.io/) and  [Fastify](https://www.fastify.io/).
 
