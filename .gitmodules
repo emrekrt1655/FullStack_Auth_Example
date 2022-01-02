@@ -1,0 +1,6 @@
+[submodule "fastify-ts-prismaOrm-auth-example"]
+	path = fastify-ts-prismaOrm-auth-example
+	url = https://github.com/emreMilon/fastify-ts-prismaOrm-auth-example.git
+[submodule "ts-react-auth-example"]
+	path = ts-react-auth-example
+	url = https://github.com/emreMilon/ts-react-auth-example
