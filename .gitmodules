@@ -4,3 +4,6 @@
 [submodule "ts-react-auth-example"]
 	path = ts-react-auth-example
 	url = https://github.com/emreMilon/ts-react-auth-example
+[submodule "cypress-auth-example"]
+	path = cypress-auth-example
+	url = https://github.com/emreMilon/cypress-auth-example.git
